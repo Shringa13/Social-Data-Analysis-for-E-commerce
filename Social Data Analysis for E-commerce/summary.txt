@@ -1,0 +1,8 @@
+Number of users collected: 15003
+Number of messages collected: 4568
+Number of communities discovered: 4
+Average number of users per community: 57.50
+Number of instances per class found: [['POSITIVE', 2518], ['NEGATIVE', 3166]]
+One example from each class:
+Positive: [ "b'@flipkartsupport plz share me product is reaches warehouse yes /nobut product pick up me 26/11/2016 earlly mrngother issue not aresponce me.'"]
+Negative: [ "b'@flipkartsupport No need for that but in future i will careful while making any purchase from flipkart as after sales service are very worst'"]
